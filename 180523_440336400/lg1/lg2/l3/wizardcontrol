@@ -1,3 +1,6 @@
 z:Ref
 <d2p1>DataBinding</d2p1>
 <d3p2></d3p2:IsRequired>
+<d5p1></d5p1:IsReadOnly>
+<d6p1>Custom</d6p1>
+<d7p1>System collection</d7p1>
