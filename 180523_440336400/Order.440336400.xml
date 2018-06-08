@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Order Id="440336400" CheckoutMode="ShoppingCart" CurrentStatusId="12" CurrentStatusName="Placed">
+  <ShippingAndBilling>
+    <CustomerBranch Code="SP_DTS" Id="117145601" />
+    <ShippingAddress>
+      <PersonName>
+        <FirstName>Nguyen Bui</FirstName>
+        <MiddleName></MiddleName>
+        <Surname>Nguyen Bui</Surname>
+      </PersonName>
+      <AddressDetails>
+        <Company>Nguyen Bui</Company>
+        <Street>Nguyen Bui</Street>
+        <ExtendedAddress></ExtendedAddress>
+        <City>Nguyen Bui</City>
+        <Country>Nguyen Bui</Country>
+        <Region>Nguyen Bui</Region>
+        <PostalCode>Nguyen Bui</PostalCode>
+      </AddressDetails>
+      <ContactDetails>
+        <Phone1>Nguyen Bui</Phone1>
+        <Phone2>Nguyen Bui</Phone2>
+        <CellPhone>Nguyen Bui</CellPhone>
+        <Fax></Fax>
+        <Email>ian.bigg@gmail.com</Email>
+      </ContactDetails>
+    </ShippingAddress>
+    <BillingAddress HasBillingAddress="false" />
+    <Shipping HasShippingFee="false" />
+    <OrderPrice>
+      <ItemsPrice>
+        <NetTotal>316.3600</NetTotal>
+        <TotalTax>31.6400</TotalTax>
+        <GrossTotal>348.0000</GrossTotal>
+      </ItemsPrice>
+      <ShippingPrice HasShippingFee="false" />
+      <GrandTotal>
+        <NetGrandTotal>316.3600</NetGrandTotal>
+        <GrandTotalTax>31.6400</GrandTotalTax>
+        <GrossGrandTotal>348.0000</GrossGrandTotal>
+      </GrandTotal>
+      <Payment HasPaymentMethodFee="true">
+        <PaymentMethodId>2</PaymentMethodId>
+        <PaymentMethodFixedFee>0</PaymentMethodFixedFee>
+        <PaymentMethodPercentageFeeInPercent>0</PaymentMethodPercentageFeeInPercent>
+        <PaymentMethodFee>0</PaymentMethodFee>
+        <PriceToPay>348.0000</PriceToPay>
+      </Payment>
+      <CurrencyIntlCode>AUD</CurrencyIntlCode>
+      <PersonalBudgetUsed>0</PersonalBudgetUsed>
+    </OrderPrice>
+  </ShippingAndBilling>
+  <Approval Needed="false" />
+  <OrderItemsCompanyId>117112832</OrderItemsCompanyId>
+  <OrderItem TaxGroupId="440238105">
+    <Package id="249102336" OriginalWfdName="PictureBoards_Canvas4x6.wfd" SharedWfdName="" CustomizedWfdName="" />
+    <Price>
+      <NetItemTotal>179.0900</NetItemTotal>
+      <NetUnitPrice>179.0900</NetUnitPrice>
+      <ProductBudgetDiscountInPercent>0</ProductBudgetDiscountInPercent>
+      <ProductBudgetDiscountAmount>0</ProductBudgetDiscountAmount>
+    </Price>
+    <UnitsOrdered>1</UnitsOrdered>
+    <GrayscalePreview>false</GrayscalePreview>
+    <DataFile>
+      <Name>Order.440336400.ItemData.440205528.xml</Name>
+      <InputName>InspireStorefrontDataInput</InputName>
+    </DataFile>
+    <Attachment>
+      <Name>1.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>1.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>img_L_Main3S</ParameterName>
+    </Attachment>
+    <Attachment>
+      <Name>3.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>3.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>img_P_Small_02</ParameterName>
+    </Attachment>
+    <Attachment>
+      <Name>2.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>2.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>img_P_Small_01</ParameterName>
+    </Attachment>
+    <Attachment>
+      <Name>4.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>4.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>img_P_Small_03</ParameterName>
+    </Attachment>
+    <Attachment>
+      <Name>Chrysanthemum.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>Chrysanthemum.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>PositionalPhoto</ParameterName>
+    </Attachment>
+  </OrderItem>
+  <OrderItem TaxGroupId="440238105">
+    <Package id="122847235" OriginalWfdName="PictureBoards_General.wfd" SharedWfdName="" CustomizedWfdName="" />
+    <Price>
+      <NetItemTotal>137.2700</NetItemTotal>
+      <NetUnitPrice>137.2700</NetUnitPrice>
+      <ProductBudgetDiscountInPercent>0</ProductBudgetDiscountInPercent>
+      <ProductBudgetDiscountAmount>0</ProductBudgetDiscountAmount>
+    </Price>
+    <UnitsOrdered>1</UnitsOrdered>
+    <GrayscalePreview>false</GrayscalePreview>
+    <DataFile>
+      <Name>Order.440336400.ItemData.440205533.xml</Name>
+      <InputName>InspireStorefrontDataInput</InputName>
+    </DataFile>
+    <Attachment>
+      <Name>6.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>6.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>img_L_Main</ParameterName>
+    </Attachment>
+    <Attachment>
+      <Name>8.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>8.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>img_P_Small_02</ParameterName>
+    </Attachment>
+    <Attachment>
+      <Name>7.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>7.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>img_P_Small_01</ParameterName>
+    </Attachment>
+    <Attachment>
+      <Name>9.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>9.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>img_P_Small_03</ParameterName>
+    </Attachment>
+    <Attachment>
+      <Name>Penguins.jpg</Name>
+      <Type>2</Type>
+      <ContentType>image/jpeg</ContentType>
+      <OriginalName>Penguins.jpg</OriginalName>
+      <InputName>Production_Params</InputName>
+      <ParameterName>PositionalPhoto</ParameterName>
+    </Attachment>
+  </OrderItem>
+  <TaxSummary>
+    <TaxGroup Id="440238105" TaxUsed="true">
+      <Tax>
+        <DisplayName>GST</DisplayName>
+        <Name>GST</Name>
+        <Rate>0.1000</Rate>
+      </Tax>
+      <NetSubtotal>316.3600</NetSubtotal>
+      <SubtotalTax>31.6400</SubtotalTax>
+      <GrossSubtotal>348.0000</GrossSubtotal>
+    </TaxGroup>
+  </TaxSummary>
+</Order>

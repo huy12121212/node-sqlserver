@@ -1,0 +1,43 @@
+Inspire Designer Console 10.0.84 Hotfix Production System
+Net license (10.0.0.46)
+Logged-in to server DTS002.
+Opening workflow vcs://Designs/SP/PictureBoards_Canvas4x6.wfd  23.5.2018 16:03:12.156.
+Status message 0881:Reading config file vcs://JobFiles/SP_Production_WWOP.job.
+Status message 0884:Running module Production.
+Warning 0704:Page selection depends on a variable, but no variable has been selected. Pages: Pages. (Make Pages)
+Status message 0596:GetCustDetails: Imposition script preprocessing started.
+Status message 0203:XML Data Input: Opening: \\DTS-DC1\Storefront\Production\180523_440336400\Order.440336400.ItemData.440205528.xml.
+Status message 0597:GetCustDetails: Imposition script preprocessing finished.
+Status message 0203:XML Data Input: Opening: \\DTS-DC1\Storefront\Production\180523_440336400\Order.440336400.ItemData.440205528.xml.
+Status message 0045:Data opened (duration 0:00:00.032, records 1).
+Status message 0007:Preprocessing started.
+Status message 0008:Preprocessing finished (duration 0:00:00.000, sheets 1, tempsize 236).
+Status message 0596:Xml: Imposition script preprocessing started.
+Status message 0203:XML Data Input: Opening: \\DTS-DC1\Storefront\Production\180523_440336400\Order.440336400.ItemData.440205528.xml.
+Status message 0597:Xml: Imposition script preprocessing finished.
+Status message 0874:Creating output file '\\DTS-DC1\Storefront\Production\180523_440336400\12345671_THATERNXML.txt'. (AdvancedDataOutput11)
+Status message 0875:Output file '\\DTS-DC1\Storefront\Production\180523_440336400\12345671_THATERNXML.txt' complete. (AdvancedDataOutput11)
+Status message 0645:Job started (engine PDF, range 1-end, copies 1, file \\DTS-DC1\Storefront\Production\180523_440336400\OI-[12345671]-6-Stanton-Street-Seven Hills.pdf).
+Warning 7520:It's better to disable the 'Autorotate pages' option in the Workflow options when using Postscript or EPS file in Layout  'Pages.4x6P_1L3S.ImageArea 1'. (Make Pages)
+Status message 0003:Job finished (duration 0:00:01.187, sheets 1, sheets/min 50.55).
+Complete run time:   0:00:01.546.
+
+Inspire Designer Console 10.0.84 Hotfix Production System
+Net license (10.0.0.46)
+Logged-in to server DTS002.
+Opening workflow vcs://Designs/SP/PictureBoards_Canvas4x6.wfd  23.5.2018 16:03:16.295.
+Status message 0881:Reading config file vcs://JobFiles/SP_Production_Json.job.
+Status message 0884:Running module Outjson.
+Warning 0704:Page selection depends on a variable, but no variable has been selected. Pages: Pages. (Make Pages)
+Status message 0596:GetCustDetails: Imposition script preprocessing started.
+Status message 0203:XML Data Input: Opening: \\DTS-DC1\Storefront\Production\180523_440336400\Order.440336400.ItemData.440205528.xml.
+Status message 0597:GetCustDetails: Imposition script preprocessing finished.
+Status message 0203:XML Data Input: Opening: \\DTS-DC1\Storefront\Production\180523_440336400\Order.440336400.ItemData.440205528.xml.
+Status message 0045:Data opened (duration 0:00:00.031, records 1).
+Status message 0007:Preprocessing started.
+Status message 0008:Preprocessing finished (duration 0:00:00.016, sheets 0, tempsize 0).
+Status message 0596:Json: Imposition script preprocessing started.
+Status message 0203:XML Data Input: Opening: \\DTS-DC1\Storefront\Production\180523_440336400\Order.440336400.ItemData.440205528.xml.
+Status message 0597:Json: Imposition script preprocessing finished.
+Fatal error 0030:Nothing to print.
+Complete run time:   0:00:00.484.
