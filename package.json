@@ -1,0 +1,21 @@
+{
+  "name": "sql-coonectivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "jquery": "^1.9.1",
+    "mssql": "^4.0.4",
+    "mysql": "^2.14.1",
+    "nodeman": "^1.1.2",
+    "popper.js": "^1.12.9"
+  }
+}
